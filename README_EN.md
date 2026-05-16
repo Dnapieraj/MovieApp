@@ -157,16 +157,6 @@ The application includes robust error handling for:
 - No search results scenarios
 - Appwrite database errors
 
-## 🚀 Deployment
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-This generates an optimized production build in the `dist/` folder.
-
 ### Deploy Options
 
 - **Vercel** - Recommended for React/Vite projects
@@ -193,19 +183,3 @@ Contributions are welcome! Here's how you can help:
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👨‍💻 Author
-
-Created with ❤️ by [Your Name]
-
-## 📞 Support
-
-If you have any questions or need help, please open an issue on GitHub or contact the development team.
-
----
-
-**Happy Movie Hunting! 🍿🎬**
