@@ -173,6 +173,15 @@ The application includes robust error handling for:
 - [Tailwind CSS Documentation](https://tailwindcss.com)
 - [TMDB API Documentation](https://www.themoviedb.org/settings/api)
 - [Appwrite Documentation](https://appwrite.io/docs)
+
+## 📚 Credits & Attribution
+
+This project was created as an educational implementation following the **JavaScript Mastery** YouTube tutorial.
+
+**Original Repository**: [react-movies](https://github.com/adrianhajdin/react-movies) by Adrian Hajdin  
+**Tutorial Channel**: [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
+
+This is a learning project based on their comprehensive tutorial. All credit for the original concept and tutorial structure goes to JavaScript Mastery.
  -------------------------------------------------------------------------------------------------------------------------------
 
 <img width="2556" height="997" alt="image" src="https://github.com/user-attachments/assets/3c02230e-ebb8-4f60-8b61-4491894a5cb1" />
