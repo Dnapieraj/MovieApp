@@ -173,3 +173,9 @@ The application includes robust error handling for:
 - [Tailwind CSS Documentation](https://tailwindcss.com)
 - [TMDB API Documentation](https://www.themoviedb.org/settings/api)
 - [Appwrite Documentation](https://appwrite.io/docs)
+ -------------------------------------------------------------------------------------------------------------------------------
+
+<img width="2556" height="997" alt="image" src="https://github.com/user-attachments/assets/3c02230e-ebb8-4f60-8b61-4491894a5cb1" />
+<img width="2554" height="1086" alt="image" src="https://github.com/user-attachments/assets/f43ed0e8-494d-474e-95df-d324f047d956" />
+
+
